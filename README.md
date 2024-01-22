@@ -26,7 +26,7 @@ To obtain the format used in the code you need to extract the euclidean coordina
 
 You can ask the authors of DuetDance for the raw data and then use format_files.py followed by normalize.m to obtain the same data as the one we used. Then put this data into BiGraphDiff_DuetDance\BiGraphDiff\data\Skeletons
 
-The weight can be found here: 
+The weight can be found here: [Google Drive](https://drive.google.com/drive/folders/1ekHkzKg69yykWjAQ9RqAglm7ePWt1qjw?usp=sharing)
 
 
 
