@@ -1,7 +1,7 @@
 
 # InterFormer
 
-Code for the paper "Bipartite Graph Diffusion Model for Human Interaction Generation" ([https://openaccess.thecvf.com/content/WACV2024/papers/Chopin_Bipartite_Graph_Diffusion_Model_for_Human_Interaction_Generation_WACV_2024_paper.pdf](paper)))
+Code for the paper "Bipartite Graph Diffusion Model for Human Interaction Generation" ([paper](https://openaccess.thecvf.com/content/WACV2024/papers/Chopin_Bipartite_Graph_Diffusion_Model_for_Human_Interaction_Generation_WACV_2024_paper.pdf)))
 
 
 Requirement:
