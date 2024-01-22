@@ -18,12 +18,16 @@ Code for the paper "Bipartite Graph Diffusion Model for Human Interaction Genera
 
 To generate sequence for NTU_26:
 in BiGraphDiff_NTU_26\BiGraphDiff run
+```
 	python test_a2m_transf_NTU.py -load_weights save -batch_size 2
+```
 The generated sequence are save in BiGraphDiff_NTU_26\BiGraphDiff\data_convert
 	
 To generate sequence for DuetDance:
 in BiGraphDiff_DuetDance\BiGraphDiff run
+```
 	python test_a2m_transf_DD.py -load_weights save -batch_size 128
+```
 The generated sequence are save in BiGraphDiff_DuetDance\BiGraphDiff\data_convert
 
 This was tested on a NVIDIA A100 80Go GPU. Adapt the batch_size to your own configuration.
@@ -31,7 +35,9 @@ Rising the number of epochs for NTU_26 enable a faster generation but lower the 
 
 To get the classification accuracy on NTU_26: 
 in BiGraphDiff_NTU_26\Classifier run
+```
 	python test.py -load_weights save
+```
 
 
  **Citation:**
