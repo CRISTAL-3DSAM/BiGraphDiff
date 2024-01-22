@@ -4,17 +4,17 @@
 Code for the paper "Bipartite Graph Diffusion Model for Human Interaction Generation" ([paper](https://openaccess.thecvf.com/content/WACV2024/papers/Chopin_Bipartite_Graph_Diffusion_Model_for_Human_Interaction_Generation_WACV_2024_paper.pdf)))
 
 
-Requirement:
-python 3.8
-torch 1.8.1 with cuda enabled
-numpy
-scipy
-imageio
-matplotlib
-clip
-sklearn
-tensorflow-gpu 2.10.0 (FVD/multimodality calculation only)
-tensorflow_gan 2.1.0 (FVD/multimodality calculation only)
+**dependencies:**
+- python 3.8
+- torch 1.8.1 with cuda enabled
+- numpy
+- scipy
+- imageio
+- matplotlib
+- clip
+- sklearn
+- tensorflow-gpu 2.10.0 (FVD/multimodality calculation only)
+- tensorflow_gan 2.1.0 (FVD/multimodality calculation only)
 
 To generate sequence for NTU_26:
 in BiGraphDiff_NTU_26\BiGraphDiff run
