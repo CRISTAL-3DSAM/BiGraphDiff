@@ -45,6 +45,7 @@ in BiGraphDiff_NTU_26\Classifier run
 
 
  **Citation:**
+ 
 ```
 @inproceedings{chopin2024bipartite,
   title={Bipartite graph diffusion model for human interaction generation},
